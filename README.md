@@ -15,7 +15,7 @@
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=limonsafayet&show_icons=true&count_private=true&theme=dark" width="380">
 </p>
-<p align='center'>I’m currently working on ASP.NET MVC | .Net Core | ASP.NET Core | WEB API | Angular</p>
+<p align='center'><b>I’m currently working on ASP.NET MVC | .Net Core | ASP.NET Core | WEB API | Angular</b></p>
 <p align='center'><img src="https://komarev.com/ghpvc/?username=limonsafayet" alt="https://github.com/limonsafayet" /></p>
 
 ## My Tech Stack
