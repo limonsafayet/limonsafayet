@@ -1,4 +1,7 @@
-### Hi, I am Limon Safayet 👋 👨‍💻
+
+<h1 align='center'>
+  Hi there 👋 I'm Limon Safayet 👨‍💻
+</h1>
 
 <br/>
 
