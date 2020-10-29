@@ -12,10 +12,10 @@
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>      
   </a>&nbsp;&nbsp;
 </p>
-<img src="https://komarev.com/ghpvc/?username=limonsafayet" alt="https://github.com/limonsafayet" />
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=limonsafayet&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
+<p align='center'><img src="https://komarev.com/ghpvc/?username=limonsafayet" alt="https://github.com/limonsafayet" /></p>
 
 ## My Tech Stack
 
