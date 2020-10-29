@@ -7,6 +7,10 @@
 
 <p>I am a professional developer with graduation in BSc in Computer Science & Engineering from AIUB with more than 2+ years experience in software industry.</p>
 
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=limonsafayet&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
+
 ## My Tech Stack
 
 ![CSharp](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)
