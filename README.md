@@ -1,9 +1,10 @@
-
 <h1 align='center'>
   Hi there 👋 I'm Limon Safayet 👨‍💻
 </h1>
 
-<br/>
+<p align='center'>
+  <b>Software Engineer | Full Stack Developer</b>
+</p>
 
 <p>I am a professional developer with graduation in BSc in Computer Science & Engineering from AIUB with more than 2+ years experience in software industry.</p>
 
