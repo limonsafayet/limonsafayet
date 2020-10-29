@@ -5,6 +5,16 @@
   <b>Software Engineer | Full Stack Developer</b>
 </p>
 <p align='center'>
+  <a href="https://www.linkedin.com/in/limon-safayet/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  
+  <a href="https://www.hackerrank.com/limon6531" target="_blank">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>      
+  </a>&nbsp;&nbsp;
+  
+</p>
+<p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=limonsafayet&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
