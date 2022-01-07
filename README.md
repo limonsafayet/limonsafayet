@@ -50,8 +50,9 @@
 ### Database
 
 <span>
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+   <img src="https://img.shields.io/badge/mysql-%2300000f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/mysql-%2300000f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 </span>
 
 ### Version Control
