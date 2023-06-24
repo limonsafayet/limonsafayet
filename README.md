@@ -13,7 +13,8 @@
   </a>&nbsp;&nbsp;
 </p>
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=limonsafayet&show_icons=true&count_private=true&theme=dark" width="380">
+ 
+  ![Limon's GitHub stats](https://github-readme-stats.vercel.app/api?username=limonsafayet&show_icons=true&count_private=true&theme=transparent)
 </p>
 <p align='center'><b>I’m currently working on React | Next.JS | Node </b></p>
 <p align='center'><img src="https://komarev.com/ghpvc/?username=limonsafayet" alt="https://github.com/limonsafayet" /></p>
