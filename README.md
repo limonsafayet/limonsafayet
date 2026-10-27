@@ -56,4 +56,3 @@
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </span>
   
-![Snake animation](https://github.com/limonsafayet/limonsafayet/blob/output/github-contribution-grid-snake.svg)
